@@ -53,7 +53,7 @@ STATUS_OPTIONS = ["Not Started", "In Progress", "Completed", "Hold"]
 PRIORITY_OPTIONS = ["High", "Medium", "Low"]
 
 EMPLOYEES = [
-    "Rajesh Kumar", "Amit Shah", "Suresh Patel", "Dinesh Verma",
+    "Rajesh Kumar", "Narendra Modi", "Suresh Patel", "Dinesh Verma",
     "Mahesh Joshi", "Nilesh Desai", "Prakash Modi", "Vikas Sharma",
     "Ravi Tiwari", "Sandip Rao"
 ]
